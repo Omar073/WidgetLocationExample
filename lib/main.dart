@@ -1,7 +1,7 @@
 import 'package:course/screens/position_finder.dart';
 import 'package:flutter/material.dart';
 
-// * made by
+// * made by mohannad mady https://github.com/MohannadMadi/e-commerce-app.git
 
 TextStyle big = const TextStyle(color: Colors.red, fontSize: 50);
 TextStyle small = const TextStyle(color: Colors.green, fontSize: 20);
